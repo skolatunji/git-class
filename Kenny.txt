@@ -1,1 +1,2 @@
 Just another example to show how tracking is done in Git.
+Just adding more text for further experimentation.
